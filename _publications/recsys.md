@@ -1,0 +1,12 @@
+---
+title: "Hiding Your Awful Online Choices Made More Efficient and Secure: A New Privacy-Aware Recommender System"
+collection: publications
+category: conferences24
+permalink: /publication/recsys
+excerpt: 'Recommender systems are an integral part of online platforms that recommend new content to users with similar interests. However, they demand a considerable amount of user activity data where, if the data is not adequately protected, constitute a critical threat to the user privacy. Privacy-aware recommender systems enable protection of such sensitive user data....'
+date: 2024-07-26
+venue: 'IFIP Advances in Information and Communication Technology, (Edinburgh, Scotland)'
+paperurl: 'https://arxiv.org/abs/2405.20483'
+bibtexurl: 'https://dblp.org/rec/conf/sec/MukherjeeWMLR24.html?view=bibtex'
+---
+Recommender systems are an integral part of online platforms that recommend new content to users with similar interests. However, they demand a considerable amount of user activity data where, if the data is not adequately protected, constitute a critical threat to the user privacy. Privacy-aware recommender systems enable protection of such sensitive user data while still maintaining a similar recommendation accuracy compared to the traditional non-private recommender systems. However, at present, the current privacy-aware recommender systems suffer from a significant trade-off between privacy and computational efficiency. For instance, it is well known that architectures that rely purely on cryptographic primitives offer the most robust privacy guarantees, however, they suffer from substantial computational and network overhead. Thus, it is crucial to improve this trade-off for better performance. This paper presents a novel privacy-aware recommender system that combines privacy-aware machine learning algorithms for practical scalability and efficiency with cryptographic primitives like Homomorphic Encryption and Multi-Party Computation - without assumptions like trusted-party or secure hardware - for solid privacy guarantees. Experiments on standard benchmark datasets show that our approach results in time and memory gains by three orders of magnitude compared to using cryptographic primitives in a standalone for constructing a privacy-aware recommender system. Furthermore, for the first time our method makes it feasible to compute private recommendations for datasets containing 100 million entries, even on memory-constrained low-power SOC (System on Chip) devices.
