@@ -3,7 +3,7 @@ title: "Shorter, Tighter, FAESTer: Optimizations and Improved (QROM) Analysis fo
 collection: publications
 category: conferences25
 permalink: /publication/faest2
-excerpt: 'In the past decade and largely in response to the NIST standardization effort for post-quantum cryptography, many new designs for digital signatures have been proposed. Among those, the FAEST digital signature scheme (Baum et al., CRYPTO 2023) stands out due to its interesting security-performance trade-off....'
+excerpt: 'In the past decade and largely in response to the NIST standardization effort for post-quantum cryptography, many new designs for digital signatures have been proposed. Among those....'
 date: 2025-08-17
 venue: 'Advances in Cryptology - CRYPTO 2025, (Santa Barbara, CA, USA)'
 paperurl: 'https://eprint.iacr.org/2026/164'

@@ -3,7 +3,7 @@ title: "One Tree to Rule Them All: Optimizing GGM Trees and OWFs for Post-Quantu
 collection: publications
 category: conferences24
 permalink: /publication/onetree
-excerpt: 'The use of MPC-in-the-Head (MPCitH)-based zero-knowledge proofs of knowledge (ZKPoK) to prove knowledge of a preimage of a one-way function (OWF) is a popular approach towards constructing efficient post-quantum digital signatures. Starting with the Picnic signature scheme, many optimized MPCitH signatures using a variety of (candidate) OWFs have been proposed....'
+excerpt: 'The use of MPC-in-the-Head (MPCitH)-based zero-knowledge proofs of knowledge (ZKPoK) to prove knowledge of a preimage of a one-way function (OWF) is a popular approach towards constructing efficient post-quantum....'
 date: 2024-12-10
 venue: 'Advances in Cryptology – ASIACRYPT 2024, (Kolkata, India)'
 paperurl: 'https://eprint.iacr.org/2024/490'

@@ -3,7 +3,7 @@ title: "Cache Timing Leakages in Zero-Knowledge Protocols"
 collection: publications
 category: conferences25
 permalink: /publication/zksca
-excerpt: 'The area of modern zero-knowledge proof systems has seen a significant rise in popularity over the last couple of years, with new techniques and optimized constructions emerging on a regular basis. As the field matures, the aspect of implementation attacks becomes more relevant, however side-channel attacks on zero-knowledge proof systems have seen surprisingly little treatment so far....'
+excerpt: 'The area of modern zero-knowledge proof systems has seen a significant rise in popularity over the last couple of years, with new techniques and optimized constructions emerging on a regular basis....'
 date: 2025-10-06
 venue: 'Advances in Financial Technologies (AFT 2025) (Pittsburgh, USA)'
 paperurl: 'https://eprint.iacr.org/2024/1390'

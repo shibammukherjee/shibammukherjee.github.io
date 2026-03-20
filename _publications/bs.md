@@ -3,7 +3,7 @@ title: "Concretely Efficient Blind Signatures Based on VOLE-in-the-Head Proofs a
 collection: publications
 category: conferences26
 permalink: /publication/bs
-excerpt: 'Blind signatures (Chaum, CRYPTO 82) are important building blocks in many privacy-preserving applications, such as anonymous credentials or e-cash schemes. Recent years saw a strong interest in building Blind signatures from post-quantum assumptions, primarily from lattices. While performance has improved, no construction has  reached practical efficiency...'
+excerpt: 'Blind signatures (Chaum, CRYPTO 82) are important building blocks in many privacy-preserving applications, such as anonymous credentials or e-cash schemes. Recent years saw a strong interest....'
 date: 2026-08-12
 venue: 'Accepted at USENIX 2026 (Baltimore, USA)'
 paperurl: 'https://eprint.iacr.org/2026/164'

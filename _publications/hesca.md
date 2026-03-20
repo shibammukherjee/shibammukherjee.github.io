@@ -3,7 +3,7 @@ title: "Towards Private Deep Learning-Based Side-Channel Analysis Using Homomorp
 collection: publications
 category: conferences24
 permalink: /publication/hesca
-excerpt: 'This work investigates using Homomorphic Encryption (HE) to assist the security evaluation of cryptographic devices without revealing side-channel information. For the first time, we evaluate the feasibility of execution of deep learning-based side-channel analysis on standard server equipment using an adapted HE protocol. By examining accuracy and execution time, it demonstrates the successful application....'
+excerpt: 'This work investigates using Homomorphic Encryption (HE) to assist the security evaluation of cryptographic devices without revealing side-channel information. For the first time....'
 date: 2024-04-03
 venue: 'Constructive Side-Channel Analysis and Secure Design. COSADE 2024, (Gardanne, Aix-Marseille, France)'
 paperurl: 'https://eprint.iacr.org/2023/1252'

@@ -3,7 +3,7 @@ title: "Hiding Your Awful Online Choices Made More Efficient and Secure: A New P
 collection: publications
 category: conferences24
 permalink: /publication/recsys
-excerpt: 'Recommender systems are an integral part of online platforms that recommend new content to users with similar interests. However, they demand a considerable amount of user activity data where, if the data is not adequately protected, constitute a critical threat to the user privacy. Privacy-aware recommender systems enable protection of such sensitive user data....'
+excerpt: 'Recommender systems are an integral part of online platforms that recommend new content to users with similar interests. However, they demand a considerable amount of user activity data....'
 date: 2024-07-26
 venue: 'IFIP Advances in Information and Communication Technology, (Edinburgh, Scotland)'
 paperurl: 'https://arxiv.org/abs/2405.20483'
