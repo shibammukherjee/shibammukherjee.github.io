@@ -95,6 +95,14 @@ publication_category:
     title: '2025'
   conferences24:
     title: '2024'
+  misc26:
+    title: '2026'
+  misc25:
+    title: '2025'
+  misc24:
+    title: '2024'
+  misc23:
+    title: '2023'  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
