@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher at [Graz University of Technology](https://www.tugraz.at/home), working at the [IAIK](isec.tugraz.at) institute and [Know Center](https://www.know-center.at/). My research direction covers post-quantum digital signatures, VOLE based zero-knowledge proofs, anonymous credentials, side-channel secure and efficient (friendly) cryptographic implementations. I am currently part of the [FAEST](https://faest.info/) signature team in the NIST additional PQ signature scheme call.
+I am a PhD researcher at [Graz University of Technology](https://www.tugraz.at/home) in Cryptography and Privacy, working at the [IAIK](https://isec.tugraz.at) institute and [Know Center](https://www.know-center.at/). My research direction covers post-quantum digital signatures, zero-knowledge proofs, anonymous credentials, side-channel security, circuit-friendly designs and efficient cryptographic implementations. I am currently part of the [FAEST](https://faest.info/) signature team in the NIST additional PQ signature scheme call.
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
 <tr style="vertical-align: top;">
@@ -17,10 +17,10 @@ I am a PhD researcher at [Graz University of Technology](https://www.tugraz.at/h
 <ul style="margin: 0; padding-left: 20px;">
 <li>Zero-Knowledge Proof Systems</li>
 <li>Post-Quantum Digital Signatures</li>
-<li>PQ Blind Signatures and Anonymous Credentials</li>
+<li>Blind Signatures and Anonymous Credentials</li>
 <li>Privacy Preserving Systems like MPC</li>
-<li>Domain Specific Friendly Cryptographic Primitives like Hashes, Ciphers</li>
-<li>Efficient (Hardware-Friendly) Implementations</li>
+<li>Circuit-Friendly Primitives like Hashes, Ciphers</li>
+<li>Hardware-Friendly Designs</li>
 <li>Side-Channels</li>
 </ul>
 
@@ -39,9 +39,9 @@ I am a PhD researcher at [Graz University of Technology](https://www.tugraz.at/h
 </tr>
 </table>
 
-Found something interesting? <br>Glad to discuss potential collaboration ideas! :)
+<br><small style="color:grey;"># Glad to discuss potential collaboration ideas! :)</small>
 
-<br><br><small style="color:grey;">Looking for some consultation in my research direction? Will be happy to hear back.</small>
+<small style="color:grey;"># Looking for consultation in my research direction? Will be happy to hear back.</small>
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
