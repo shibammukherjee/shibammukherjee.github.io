@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher at [Graz University of Technology](https://www.tugraz.at/home), working at the [IAIK](isec.tugraz.at) institute and [Know Center](https://www.know-center.at/). My research direction covers post-quantum digital signatures, VOLE based zero-knowledge proofs, anonymous credentials, side-channel secure and efficient (friendly) cryptographic implementations. I am currently part of the [FAEST](https://faest.info/) signature team in the NIST additioanl PQ signature scheme call.
+I am a PhD researcher at [Graz University of Technology](https://www.tugraz.at/home), working at the [IAIK](isec.tugraz.at) institute and [Know Center](https://www.know-center.at/). My research direction covers post-quantum digital signatures, VOLE based zero-knowledge proofs, anonymous credentials, side-channel secure and efficient (friendly) cryptographic implementations. I am currently part of the [FAEST](https://faest.info/) signature team in the NIST additional PQ signature scheme call.
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
 <tr style="vertical-align: top;">
