@@ -24,7 +24,7 @@ repository               : "shibammukherjee/shibammukherjee.github.io"
 author:
   # Biographic information
   avatar           : "profile6.jpg"
-  name             : "PhD. Researcher"
+  name             : "PhD. Candidate"
   pronouns         : # example: "she/her"  
   bio              : "Doing something with Cryptography & Privacy"
   location         : "Graz, Austria"
@@ -35,11 +35,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=zeSdEbcAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   DBLP             : "https://dblp.org/pid/356/1504.html"
-  orcid            : # "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-4399-235X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
